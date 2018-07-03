@@ -24,11 +24,11 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 # Navigation
-nav:
-  - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+# nav:
+  #- name:           "About"
+   # href:           "//kiko.gfjaru.com/about"
+  #- name:           "Download"
+  #  href:           "//github.com/gfjaru/Kiko/releases"
 
 # Sass
 sass:
