@@ -3,7 +3,7 @@ name:               "Boring life"
 description:        "And I`m boring too."
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "https://kjs1715.github.io"
+url:                "//kjs1715.github.io"
 author:             "Buzz Kim"
 #twitter:
  # username:         "gfjaru"
@@ -12,7 +12,7 @@ author:             "Buzz Kim"
 #    publisher:      1234
 
 # URL
-baseurl:            ""
+#baseurl:            ""
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title/
 
