@@ -59,6 +59,8 @@
 
 ### 2.4.1 custom console
 
+<br>
+
 - load type of console
 
   ```javascript
