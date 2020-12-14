@@ -194,6 +194,10 @@ pre code {
   background-color: transparent;
 }
 
+.demo {
+  box-shadow: h-shadow v-shadow blur spread color inset;
+}
+
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;
