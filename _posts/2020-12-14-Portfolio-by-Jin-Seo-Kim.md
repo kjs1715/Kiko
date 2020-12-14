@@ -1,3 +1,5 @@
+![](https://github.com/kjs1715/kjs1715.github.io/blob/master/portfolio/Slide1.jpeg)
+
 <img src="https://github.com/kjs1715/kjs1715.github.io/blob/master/portfolio/Slide1.jpeg">
 
 <img src="https://github.com/kjs1715/kjs1715.github.io/blob/master/portfolio/Slide2.jpeg">
